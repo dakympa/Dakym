@@ -13,7 +13,7 @@ readme_content = """
 **Authors:** Dakym Palmer
 **Date Created:** 29/3/2025
 **Course:** ITT103
-**GitHub Public URL to Code:** [Replace with your GitHub repository URL]
+**GitHub Public URL to Code:** [https://github.com/dakympa/Dakym.git]
 
 ## Purpose
 
